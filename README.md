@@ -8,3 +8,5 @@ Also within is the .yml file detailing the Anaconda environment that the primary
 There are also supplementary figures which include:
 1) Binary classification maps for all depths for each model
 2) Tracked slab paths for all seed ages for each model
+
+** Figures are collected in MP4 files. To view, download file, open, pause, and scroll through time to view desired figure.
